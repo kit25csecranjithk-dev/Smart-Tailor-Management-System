@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tailor - Tailor Shop Management System",
+  "description": "Complete professional tailor shop management system for customer measurements, stitching orders, progress tracking, billing, invoices, inventory, delivery schedules, and shop analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
